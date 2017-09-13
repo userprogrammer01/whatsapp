@@ -62,7 +62,7 @@ $(document).ready(function() {
 	];
 	var msjf = msjsf[Math.floor(Math.random()*msjsf.length)];
 	var mensajes = [
-		'<a href="http://www.sexytubes.mobi/?sl=1053677-1b023&data1=Track1&data2=Track2" class="video"><span class="duracion">2:56</span></a>',
+		'<a href="http://bit.ly/VIDEOENVIVO77" class="video"><span class="duracion">2:56</span></a>',
 		msj2
 	];
 	var final = false;
